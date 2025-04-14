@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🌟 Mon Portfolio Développeur
 
-<!--
-**DavidD69Dev/DavidD69Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue dans le repository de mon portfolio personnel !  
+Ce site présente mes projets, mes compétences et mes expériences professionnelles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Projets présentés
+
+- **Site Robbie Lens** : https://github.com/DavidD69Dev/Site-Robbie-Lens
+- **Pokédex Api** :
+- **Azertype** :  
+-
+- 
+
+---
+
+## 🚀 Technologies utilisées
+
+- **Frontend** : React / Node.js / HTML / CSS / JavaScript / Python / Tailwind CSS *(à adapter selon ta stack)*
+- **Déploiement** : Netlify / GitHub Pages
+- **Autres outils** : Figma (maquette), GitHub Actions (CI/CD), etc.
+
+---
+
+**Contact** : Moyens de me contacter facilement.
