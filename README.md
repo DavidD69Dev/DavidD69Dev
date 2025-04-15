@@ -8,7 +8,7 @@ Ce site présente mes projets, mes compétences et mes expériences professionne
 ## 🧩 Projets présentés
 
 - **Site Robbie Lens** : https://github.com/DavidD69Dev/Site-Robbie-Lens
-- **Pokédex Api** :
+- **Jeu Devin** : https://github.com/DavidD69Dev/JeuDevin/tree/main
 - **Azertype** : https://github.com/DavidD69Dev/Azertype  
 -
 - 
