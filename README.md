@@ -9,7 +9,7 @@ Ce site présente mes projets, mes compétences et mes expériences professionne
 
 - **Site Robbie Lens** : https://github.com/DavidD69Dev/Site-Robbie-Lens
 - **Pokédex Api** :
-- **Azertype** :  
+- **Azertype** : https://github.com/DavidD69Dev/Azertype  
 -
 - 
 
@@ -17,10 +17,12 @@ Ce site présente mes projets, mes compétences et mes expériences professionne
 
 ## 🚀 Technologies utilisées
 
-- **Frontend** : React / Node.js / HTML / CSS / JavaScript / Python / Tailwind CSS *(à adapter selon ta stack)*
+- **Frontend** : React / Node.js / HTML / CSS / JavaScript / Python 
 - **Déploiement** : Netlify / GitHub Pages
 - **Autres outils** : Figma (maquette), GitHub Actions (CI/CD), etc.
 
 ---
 
 **Contact** : Moyens de me contacter facilement.
+
+https://www.linkedin.com/in/david-arfi-05a554358/
