@@ -17,9 +17,10 @@ Ce site présente mes projets, mes compétences et mes expériences professionne
 
 ## 🚀 Technologies utilisées
 
-- **Frontend** : React / Node.js / HTML / CSS / JavaScript / Python 
-- **Déploiement** : Netlify / GitHub Pages
-- **Autres outils** : Figma (maquette), GitHub Actions (CI/CD), etc.
+- **Frontend** : Node.js / Python 
+- **Backend** : React / HTML / CSS / JavaScript   
+- **Intégration et Déploiement** : Netlify / GitHub Actions CI / CD
+- **Autres** : Figma (maquette), GitHub 
 
 ---
 
