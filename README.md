@@ -13,6 +13,7 @@ Ce site présente mes projets, mes compétences et mes expériences professionne
 - **Sleep On Key** : https://github.com/DavidD69Dev/Sleep-On-Key.git
 - **Todo App** : https://github.com/DavidD69Dev/Todo-App
 - **Mouve Mouse Screen** : https://github.com/DavidD69Dev/Move-Mouse
+- **Calculatrice** : https://github.com/DavidD69Dev/Calculatrice
 
 ---
 
